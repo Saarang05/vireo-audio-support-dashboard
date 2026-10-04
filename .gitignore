@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local/raw task data — DO NOT PUBLISH
+data/
+*.csv
+
+# Generated analysis outputs
+outputs/
+
+# Private submission material
+submission-form.md
+
+# Local backups
+*.backup
+*.bak
+
+# OS/editor files
+.DS_Store
+*.swp
